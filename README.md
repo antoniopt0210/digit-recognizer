@@ -1,2 +1,1 @@
-# digit-recognizer
-Digit Recognizer Model
+# Coming soon...
